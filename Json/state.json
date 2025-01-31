@@ -1,0 +1,257 @@
+﻿
+{
+  "State": [
+    {
+      "Id": 1,
+      "Name": "ANDAMAN AND NICOBAR ISLANDS",
+      "Code": "AN",
+      "Abbreviation": "AN",
+      "CountryCode": "91"
+    },
+    {
+      "Id": 2,
+      "Name": "ANDHRA PRADESH",
+      "Code": "AP",
+      "Abbreviation": "AP",
+      "CountryCode": "91"
+    },
+    {
+      "Id": 3,
+      "Name": "ARUNACHAL PRADESH",
+      "Code": "AR",
+      "Abbreviation": "AR",
+      "CountryCode": "91"
+    },
+    {
+      "Id": 4,
+      "Name": "ASSAM",
+      "Code": "AS",
+      "Abbreviation": "AS",
+      "CountryCode": "91"
+    },
+    {
+      "Id": 5,
+      "Name": "BIHAR",
+      "Code": "BR",
+      "Abbreviation": "BR",
+      "CountryCode": "91"
+    },
+    {
+      "Id": 6,
+      "Name": "CHHATTISGARH",
+      "Code": "CG",
+      "Abbreviation": "CG",
+      "CountryCode": "91"
+    },
+    {
+      "Id": 7,
+      "Name": "GOA",
+      "Code": "GA",
+      "Abbreviation": "GA",
+      "CountryCode": "91"
+    },
+    {
+      "Id": 8,
+      "Name": "GUJARAT",
+      "Code": "GJ",
+      "Abbreviation": "GJ",
+      "CountryCode": "91"
+    },
+    {
+      "Id": 9,
+      "Name": "HARYANA",
+      "Code": "HR",
+      "Abbreviation": "HR",
+      "CountryCode": "91"
+    },
+    {
+      "Id": 10,
+      "Name": "HIMACHAL PRADESH",
+      "Code": "HP",
+      "Abbreviation": "HP",
+      "CountryCode": "91"
+    },
+    {
+      "Id": 11,
+      "Name": "JHARKHAND",
+      "Code": "JH",
+      "Abbreviation": "JH",
+      "CountryCode": "91"
+    },
+    {
+      "Id": 12,
+      "Name": "KARNATAKA",
+      "Code": "KA",
+      "Abbreviation": "KA",
+      "CountryCode": "91"
+    },
+    {
+      "Id": 13,
+      "Name": "KERALA",
+      "Code": "KL",
+      "Abbreviation": "KL",
+      "CountryCode": "91"
+    },
+    {
+      "Id": 14,
+      "Name": "MADHYA PRADESH",
+      "Code": "MP",
+      "Abbreviation": "MP",
+      "CountryCode": "91"
+    },
+    {
+      "Id": 15,
+      "Name": "MAHARASHTRA",
+      "Code": "MH",
+      "Abbreviation": "MH",
+      "CountryCode": "91"
+    },
+    {
+      "Id": 16,
+      "Name": "MANIPUR",
+      "Code": "MN",
+      "Abbreviation": "MN",
+      "CountryCode": "91"
+    },
+    {
+      "Id": 17,
+      "Name": "MEGHALAYA",
+      "Code": "ML",
+      "Abbreviation": "ML",
+      "CountryCode": "91"
+    },
+    {
+      "Id": 18,
+      "Name": "MIZORAM",
+      "Code": "MZ",
+      "Abbreviation": "MZ",
+      "CountryCode": "91"
+    },
+    {
+      "Id": 19,
+      "Name": "NAGALAND",
+      "Code": "NL",
+      "Abbreviation": "NL",
+      "CountryCode": "91"
+    },
+    {
+      "Id": 20,
+      "Name": "ODISHA",
+      "Code": "OD",
+      "Abbreviation": "OD",
+      "CountryCode": "91"
+    },
+    {
+      "Id": 21,
+      "Name": "PUNJAB",
+      "Code": "PB",
+      "Abbreviation": "PB",
+      "CountryCode": "91"
+    },
+    {
+      "Id": 22,
+      "Name": "RAJASTHAN",
+      "Code": "RJ",
+      "Abbreviation": "RJ",
+      "CountryCode": "91"
+    },
+    {
+      "Id": 23,
+      "Name": "SIKKIM",
+      "Code": "SK",
+      "Abbreviation": "SK",
+      "CountryCode": "91"
+    },
+    {
+      "Id": 24,
+      "Name": "TAMIL NADU",
+      "Code": "TN",
+      "Abbreviation": "TN",
+      "CountryCode": "91"
+    },
+    {
+      "Id": 25,
+      "Name": "TELANGANA",
+      "Code": "TG",
+      "Abbreviation": "TG",
+      "CountryCode": "91"
+    },
+    {
+      "Id": 26,
+      "Name": "TRIPURA",
+      "Code": "TR",
+      "Abbreviation": "TR",
+      "CountryCode": "91"
+    },
+    {
+      "Id": 27,
+      "Name": "UTTARAKHAND",
+      "Code": "UK",
+      "Abbreviation": "UK",
+      "CountryCode": "91"
+    },
+    {
+      "Id": 28,
+      "Name": "UTTAR PRADESH",
+      "Code": "UP",
+      "Abbreviation": "UP",
+      "CountryCode": "91"
+    },
+    {
+      "Id": 29,
+      "Name": "WEST BENGAL",
+      "Code": "WB",
+      "Abbreviation": "WB",
+      "CountryCode": "91"
+    },
+    {
+      "Id": 30,
+      "Name": "DELHI",
+      "Code": "DL",
+      "Abbreviation": "DL",
+      "CountryCode": "91"
+    },
+    {
+      "Id": 31,
+      "Name": "JAMMU AND KASHMIR",
+      "Code": "JK",
+      "Abbreviation": "JK",
+      "CountryCode": "91"
+    },
+    {
+      "Id": 32,
+      "Name": "LADAKH",
+      "Code": "LA",
+      "Abbreviation": "LA",
+      "CountryCode": "91"
+    },
+    {
+      "Id": 33,
+      "Name": "LAKSHADWEEP",
+      "Code": "LD",
+      "Abbreviation": "LD",
+      "CountryCode": "91"
+    },
+    {
+      "Id": 34,
+      "Name": "DADRA AND NAGAR HAVELI AND DAMAN AND DIU",
+      "Code": "DN",
+      "Abbreviation": "DN",
+      "CountryCode": "91"
+    },
+    {
+      "Id": 35,
+      "Name": "PUDUCHERRY",
+      "Code": "PY",
+      "Abbreviation": "PY",
+      "CountryCode": "91"
+    },
+    {
+      "Id": 36,
+      "Name": "CHANDIGARH",
+      "Code": "CH",
+      "Abbreviation": "CH",
+      "CountryCode": "91"
+    }
+  ]
+}

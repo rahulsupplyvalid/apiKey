@@ -1,0 +1,6 @@
+@masterapi_HostAddress = http://localhost:5229
+
+GET {{masterapi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

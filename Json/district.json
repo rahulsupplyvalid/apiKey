@@ -1,0 +1,531 @@
+﻿{
+  "District": [
+    {
+      "Id": 1,
+      "Name": "AGRA",
+      "Code": "AG",
+      "Abbreviation": "AG",
+      "StateCode": "UP"
+    },
+    {
+      "Id": 2,
+      "Name": "ALIGARH",
+      "Code": "AL",
+      "Abbreviation": "AL",
+      "StateCode": "UP"
+    },
+    {
+      "Id": 3,
+      "Name": "ALLAHABAD",
+      "Code": "ALD",
+      "Abbreviation": "ALD",
+      "StateCode": "UP"
+    },
+    {
+      "Id": 4,
+      "Name": "AMBEDKAR NAGAR",
+      "Code": "AN",
+      "Abbreviation": "AN",
+      "StateCode": "UP"
+    },
+    {
+      "Id": 5,
+      "Name": "AMROHA",
+      "Code": "AM",
+      "Abbreviation": "AM",
+      "StateCode": "UP"
+    },
+    {
+      "Id": 6,
+      "Name": "AURAIYA",
+      "Code": "AU",
+      "Abbreviation": "AU",
+      "StateCode": "UP"
+    },
+    {
+      "Id": 7,
+      "Name": "AYODHYA",
+      "Code": "AY",
+      "Abbreviation": "AY",
+      "StateCode": "UP"
+    },
+    {
+      "Id": 8,
+      "Name": "BAHRAICH",
+      "Code": "BH",
+      "Abbreviation": "BH",
+      "StateCode": "UP"
+    },
+    {
+      "Id": 9,
+      "Name": "BAGHPAT",
+      "Code": "BP",
+      "Abbreviation": "BP",
+      "StateCode": "UP"
+    },
+    {
+      "Id": 10,
+      "Name": "BASTI",
+      "Code": "BS",
+      "Abbreviation": "BS",
+      "StateCode": "UP"
+    },
+    {
+      "Id": 11,
+      "Name": "BIJNOR",
+      "Code": "BJ",
+      "Abbreviation": "BJ",
+      "StateCode": "UP"
+    },
+    {
+      "Id": 12,
+      "Name": "BUXAR",
+      "Code": "BX",
+      "Abbreviation": "BX",
+      "StateCode": "UP"
+    },
+    {
+      "Id": 13,
+      "Name": "CHANDAULI",
+      "Code": "CD",
+      "Abbreviation": "CD",
+      "StateCode": "UP"
+    },
+    {
+      "Id": 14,
+      "Name": "CHHATRAPATI SHAHUJI MAHARAJ NAGAR",
+      "Code": "CS",
+      "Abbreviation": "CS",
+      "StateCode": "UP"
+    },
+    {
+      "Id": 15,
+      "Name": "CHHINDWARA",
+      "Code": "CN",
+      "Abbreviation": "CN",
+      "StateCode": "UP"
+    },
+    {
+      "Id": 16,
+      "Name": "DEORIA",
+      "Code": "DR",
+      "Abbreviation": "DR",
+      "StateCode": "UP"
+    },
+    {
+      "Id": 17,
+      "Name": "ETAH",
+      "Code": "ET",
+      "Abbreviation": "ET",
+      "StateCode": "UP"
+    },
+    {
+      "Id": 18,
+      "Name": "ETAWAH",
+      "Code": "EW",
+      "Abbreviation": "EW",
+      "StateCode": "UP"
+    },
+    {
+      "Id": 19,
+      "Name": "FAIZABAD",
+      "Code": "FD",
+      "Abbreviation": "FD",
+      "StateCode": "UP"
+    },
+    {
+      "Id": 20,
+      "Name": "FARRUKHABAD",
+      "Code": "FK",
+      "Abbreviation": "FK",
+      "StateCode": "UP"
+    },
+    {
+      "Id": 21,
+      "Name": "FATEHPUR",
+      "Code": "FP",
+      "Abbreviation": "FP",
+      "StateCode": "UP"
+    },
+    {
+      "Id": 22,
+      "Name": "GHAZIABAD",
+      "Code": "GZB",
+      "Abbreviation": "GZB",
+      "StateCode": "UP"
+    },
+    {
+      "Id": 23,
+      "Name": "GONDA",
+      "Code": "GD",
+      "Abbreviation": "GD",
+      "StateCode": "UP"
+    },
+    {
+      "Id": 24,
+      "Name": "GORAKHPUR",
+      "Code": "GRK",
+      "Abbreviation": "GRK",
+      "StateCode": "UP"
+    },
+    {
+      "Id": 25,
+      "Name": "HAMIRPUR",
+      "Code": "HP",
+      "Abbreviation": "HP",
+      "StateCode": "UP"
+    },
+    {
+      "Id": 26,
+      "Name": "HAPUR",
+      "Code": "HP",
+      "Abbreviation": "HP",
+      "StateCode": "UP"
+    },
+    {
+      "Id": 27,
+      "Name": "HARDOI",
+      "Code": "HDI",
+      "Abbreviation": "HDI",
+      "StateCode": "UP"
+    },
+    {
+      "Id": 28,
+      "Name": "HATHRAS",
+      "Code": "HT",
+      "Abbreviation": "HT",
+      "StateCode": "UP"
+    },
+    {
+      "Id": 29,
+      "Name": "JALAUN",
+      "Code": "JN",
+      "Abbreviation": "JN",
+      "StateCode": "UP"
+    },
+    {
+      "Id": 30,
+      "Name": "JHANSI",
+      "Code": "JH",
+      "Abbreviation": "JH",
+      "StateCode": "UP"
+    },
+    {
+
+      "Id": 31,
+      "Name": "KANSIRAM NAGAR",
+      "Code": "KN",
+      "Abbreviation": "KN",
+      "StateCode": "UP"
+    },
+    {
+      "Id": 32,
+      "Name": "KUSHINAGAR",
+      "Code": "KU",
+      "Abbreviation": "KU",
+      "StateCode": "UP"
+    },
+    {
+      "Id": 33,
+      "Name": "LAKHIMPUR KHERI",
+      "Code": "LK",
+      "Abbreviation": "LK",
+      "StateCode": "UP"
+    },
+    {
+      "Id": 34,
+      "Name": "LUCKNOW",
+      "Code": "LU",
+      "Abbreviation": "LU",
+      "StateCode": "UP"
+    },
+    {
+      "Id": 35,
+      "Name": "MATHURA",
+      "Code": "MT",
+      "Abbreviation": "MT",
+      "StateCode": "UP"
+    },
+    {
+      "Id": 36,
+      "Name": "MAU",
+      "Code": "MA",
+      "Abbreviation": "MA",
+      "StateCode": "UP"
+    },
+    {
+      "Id": 37,
+      "Name": "MEERUT",
+      "Code": "MTT",
+      "Abbreviation": "MTT",
+      "StateCode": "UP"
+    },
+    {
+      "Id": 38,
+      "Name": "MORADABAD",
+      "Code": "MD",
+      "Abbreviation": "MD",
+      "StateCode": "UP"
+    },
+    {
+      "Id": 39,
+      "Name": "MUZAFFARNAGAR",
+      "Code": "MZN",
+      "Abbreviation": "MZN",
+      "StateCode": "UP"
+    },
+    {
+      "Id": 40,
+      "Name": "RAE BARELI",
+      "Code": "RB",
+      "Abbreviation": "RB",
+      "StateCode": "UP"
+    },
+    {
+      "Id": 41,
+      "Name": "RAMPUR",
+      "Code": "RP",
+      "Abbreviation": "RP",
+      "StateCode": "UP"
+    },
+    {
+      "Id": 42,
+      "Name": "SANT KABIR NAGAR",
+      "Code": "SKN",
+      "Abbreviation": "SKN",
+      "StateCode": "UP"
+    },
+    {
+      "Id": 43,
+      "Name": "SANTRAMPUR",
+      "Code": "SRP",
+      "Abbreviation": "SRP",
+      "StateCode": "UP"
+    },
+    {
+      "Id": 44,
+      "Name": "SHAMLI",
+      "Code": "SH",
+      "Abbreviation": "SH",
+      "StateCode": "UP"
+    },
+    {
+      "Id": 45,
+      "Name": "SHRAVASTI",
+      "Code": "SVT",
+      "Abbreviation": "SVT",
+      "StateCode": "UP"
+    },
+    {
+      "Id": 46,
+      "Name": "SIDHARTH NAGAR",
+      "Code": "SDN",
+      "Abbreviation": "SDN",
+      "StateCode": "UP"
+    },
+    {
+      "Id": 47,
+      "Name": "SITAPUR",
+      "Code": "STP",
+      "Abbreviation": "STP",
+      "StateCode": "UP"
+    },
+    {
+      "Id": 48,
+      "Name": "SONBHADRA",
+      "Code": "SB",
+      "Abbreviation": "SB",
+      "StateCode": "UP"
+    },
+    {
+      "Id": 49,
+      "Name": "TANNUA",
+      "Code": "TN",
+      "Abbreviation": "TN",
+      "StateCode": "UP"
+    },
+    {
+      "Id": 50,
+      "Name": "UNNAO",
+      "Code": "UNN",
+      "Abbreviation": "UNN",
+      "StateCode": "UP"
+    },
+    {
+      "Id": 51,
+      "Name": "VARANASI",
+      "Code": "VNS",
+      "Abbreviation": "VNS",
+      "StateCode": "UP"
+    },
+    {
+      "Id": 52,
+      "Name": "VAIDHANATH",
+      "Code": "VD",
+      "Abbreviation": "VD",
+      "StateCode": "UP"
+    },
+    {
+      "Id": 53,
+      "Name": "WEST UP",
+      "Code": "WU",
+      "Abbreviation": "WU",
+      "StateCode": "UP"
+    },
+    {
+      "Id": 54,
+      "Name": "YAMUNANAGAR",
+      "Code": "YN",
+      "Abbreviation": "YN",
+      "StateCode": "UP"
+    },
+    {
+      "Id": 55,
+      "Name": "BULANDSHAHR",
+      "Code": "BL",
+      "Abbreviation": "BL",
+      "StateCode": "UP"
+    },
+    {
+      "Id": 56,
+      "Name": "BIJNOR",
+      "Code": "BJ",
+      "Abbreviation": "BJ",
+      "StateCode": "UP"
+    },
+    {
+
+      "Id": 57,
+      "Name": "ALIGARH",
+      "Code": "AL",
+      "Abbreviation": "AL",
+      "StateCode": "UP"
+    },
+    {
+      "Id": 58,
+      "Name": "AMETHI",
+      "Code": "AM",
+      "Abbreviation": "AM",
+      "StateCode": "UP"
+    },
+    {
+      "Id": 59,
+      "Name": "AMROHA",
+      "Code": "AMR",
+      "Abbreviation": "AMR",
+      "StateCode": "UP"
+    },
+    {
+      "Id": 60,
+      "Name": "BAGHPAT",
+      "Code": "BP",
+      "Abbreviation": "BP",
+      "StateCode": "UP"
+    },
+    {
+      "Id": 61,
+      "Name": "BASTI",
+      "Code": "BS",
+      "Abbreviation": "BS",
+      "StateCode": "UP"
+    },
+    {
+      "Id": 62,
+      "Name": "BIJNOR",
+      "Code": "BJ",
+      "Abbreviation": "BJ",
+      "StateCode": "UP"
+    },
+    {
+      "Id": 63,
+      "Name": "BULANDSHAHR",
+      "Code": "BL",
+      "Abbreviation": "BL",
+      "StateCode": "UP"
+    },
+    {
+      "Id": 64,
+      "Name": "CHANDAULI",
+      "Code": "CD",
+      "Abbreviation": "CD",
+      "StateCode": "UP"
+    },
+    {
+      "Id": 65,
+      "Name": "CHHATRAPATI SHAHUJI MAHARAJ NAGAR",
+      "Code": "CS",
+      "Abbreviation": "CS",
+      "StateCode": "UP"
+    },
+    {
+      "Id": 66,
+      "Name": "DEORIA",
+      "Code": "DR",
+      "Abbreviation": "DR",
+      "StateCode": "UP"
+    },
+    {
+      "Id": 67,
+      "Name": "FARRUKHABAD",
+      "Code": "FK",
+      "Abbreviation": "FK",
+      "StateCode": "UP"
+    },
+    {
+      "Id": 68,
+      "Name": "FATEHPUR",
+      "Code": "FP",
+      "Abbreviation": "FP",
+      "StateCode": "UP"
+    },
+    {
+      "Id": 69,
+      "Name": "GHAZIABAD",
+      "Code": "GZB",
+      "Abbreviation": "GZB",
+      "StateCode": "UP"
+    },
+    {
+      "Id": 70,
+      "Name": "GORAKHPUR",
+      "Code": "GRK",
+      "Abbreviation": "GRK",
+      "StateCode": "UP"
+    },
+    {
+      "Id": 71,
+      "Name": "HAMIRPUR",
+      "Code": "HP",
+      "Abbreviation": "HP",
+      "StateCode": "UP"
+    },
+    {
+      "Id": 72,
+      "Name": "HAPUR",
+      "Code": "HP",
+      "Abbreviation": "HP",
+      "StateCode": "UP"
+    },
+    {
+      "Id": 73,
+      "Name": "HARDOI",
+      "Code": "HDI",
+      "Abbreviation": "HDI",
+      "StateCode": "UP"
+    },
+    {
+      "Id": 74,
+      "Name": "HATHRAS",
+      "Code": "HT",
+      "Abbreviation": "HT",
+      "StateCode": "UP"
+    },
+    {
+      "Id": 75,
+      "Name": "JALAUN",
+      "Code": "JN",
+      "Abbreviation": "JN",
+      "StateCode": "UP"
+    }
+  ]
+}

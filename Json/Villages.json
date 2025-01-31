@@ -1,0 +1,158 @@
+﻿{
+  "Villages": [
+    {
+      "Id": 1,
+      "Name": "Agrana Jarara",
+      "Code": "AGJ",
+      "Abbreviation": "AGJ",
+      "CityCode": "SKR"
+    },
+    {
+      "Id": 2,
+      "Name": "Agsauli",
+      "Code": "AGS",
+      "Abbreviation": "AGS",
+      "CityCode": "SKR"
+    },
+    {
+      "Id": 3,
+      "Name": "Ainchola Sahadatpur",
+      "Code": "AINS",
+      "Abbreviation": "AINS",
+      "CityCode": "SKR"
+    },
+    {
+      "Id": 4,
+      "Name": "Alahdinpur",
+      "Code": "ALD",
+      "Abbreviation": "ALD",
+      "CityCode": "SKR"
+    },
+    {
+      "Id": 5,
+      "Name": "Amausi",
+      "Code": "AMS",
+      "Abbreviation": "AMS",
+      "CityCode": "SKR"
+    },
+    {
+      "Id": 6,
+      "Name": "Amritpur Asadpur",
+      "Code": "AMAS",
+      "Abbreviation": "AMAS",
+      "CityCode": "SKR"
+    },
+    {
+      "Id": 7,
+      "Name": "Anandpur",
+      "Code": "ANP",
+      "Abbreviation": "ANP",
+      "CityCode": "SKR"
+    },
+    {
+      "Id": 8,
+      "Name": "Andoli",
+      "Code": "ADL",
+      "Abbreviation": "ADL",
+      "CityCode": "SKR"
+    },
+    {
+      "Id": 9,
+      "Name": "Arifpur Bhogpur",
+      "Code": "AFB",
+      "Abbreviation": "AFB",
+      "CityCode": "SKR"
+    },
+    {
+      "Id": 10,
+      "Name": "Arnaut",
+      "Code": "ARN",
+      "Abbreviation": "ARN",
+      "CityCode": "SKR"
+    },
+    {
+      "Id": 11,
+      "Name": "Arnia Talesra",
+      "Code": "ANT",
+      "Abbreviation": "ANT",
+      "CityCode": "SKR"
+    },
+    {
+      "Id": 12,
+      "Name": "Asoi",
+      "Code": "ASO",
+      "Abbreviation": "ASO",
+      "CityCode": "SKR"
+    },
+    {
+      "Id": 13,
+      "Name": "Azmatpur Ajgara",
+      "Code": "AZA",
+      "Abbreviation": "AZA",
+      "CityCode": "SKR"
+    },
+    {
+      "Id": 14,
+      "Name": "Badanpur",
+      "Code": "BDP",
+      "Abbreviation": "BDP",
+      "CityCode": "SKR"
+    },
+    {
+      "Id": 15,
+      "Name": "Bakayan",
+      "Code": "BKY",
+      "Abbreviation": "BKY",
+      "CityCode": "SKR"
+    },
+    {
+      "Id": 16,
+      "Name": "Badhanoo",
+      "Code": "BDN",
+      "Abbreviation": "BDN",
+      "CityCode": "SKR"
+    },
+    {
+      "Id": 17,
+      "Name": "Bahadur Pur",
+      "Code": "BHP",
+      "Abbreviation": "BHP",
+      "CityCode": "SKR"
+    },
+    {
+      "Id": 18,
+      "Name": "Bakayan",
+      "Code": "BKY",
+      "Abbreviation": "BKY",
+      "CityCode": "SKR"
+    },
+    {
+      "Id": 19,
+      "Name": "Barai Shahpur",
+      "Code": "BSS",
+      "Abbreviation": "BSS",
+      "CityCode": "SKR"
+    },
+    {
+      "Id": 20,
+      "Name": "Baramai Nagla Bijan",
+      "Code": "BNB",
+      "Abbreviation": "BNB",
+      "CityCode": "SKR"
+    },
+    {
+      "Id": 21,
+      "Name": "Bargawan",
+      "Code": "BGW",
+      "Abbreviation": "BGW",
+      "CityCode": "SKR"
+    },
+    {
+      "Id": 22,
+      "Name": "Bari",
+      "Code": "BRI",
+      "Abbreviation": "BRI",
+      "CityCode": "SKR"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+﻿{
+  "City": [
+    {
+      "Id": 1,
+      "Name": "Hathras",
+      "Code": "HTS",
+      "Abbreviation": "HTS",
+      "DistrictCode": "HT"
+    },
+    {
+      "Id": 2,
+      "Name": "Sasni",
+      "Code": "SSN",
+      "Abbreviation": "SSN",
+      "DistrictCode": "HT"
+    },
+    {
+      "Id": 3,
+      "Name": "Sikandra Rao",
+      "Code": "SKR",
+      "Abbreviation": "SKR",
+      "DistrictCode": "HT"
+    },
+    {
+      "Id": 4,
+      "Name": "Sadabad",
+      "Code": "SDBD",
+      "Abbreviation": "SDBD",
+      "DistrictCode": "HT"
+    }
+  ]
+}

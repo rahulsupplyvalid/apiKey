@@ -1,0 +1,41 @@
+# Ignore build outputs
+Migrations/
+bin/
+obj/
+*.user
+*.suo
+# Migrations/
+
+# Ignore NuGet Packages
+*.nupkg
+*.snupkg
+
+# Ignore Visual Studio specific files
+.vs/
+*.vscode/
+
+# Ignore Rider IDE specific files
+.idea/
+*.sln.iml
+
+# Ignore temporary files
+*.tmp
+*.log
+*.swp
+
+# Ignore user-specific files
+*.userosscache
+*.userprefs
+
+# Ignore lock files
+project.lock.json
+global.lock.json
+
+# Ignore generated files
+*.Generated.cs
+
+# Ignore publish output
+publish/
+wwwroot/
+dist/
+node_modules/
