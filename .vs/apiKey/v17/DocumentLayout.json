@@ -1,0 +1,283 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\RahulKumar\\source\\repos\\apiKey\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3C755021-B8D9-4A93-B3E5-471F16BB1D95}|apiKey\\apiKey.csproj|c:\\users\\rahulkumar\\source\\repos\\apikey\\apikey\\middlewares\\apikeyorjwthandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C755021-B8D9-4A93-B3E5-471F16BB1D95}|apiKey\\apiKey.csproj|solutionrelative:apikey\\middlewares\\apikeyorjwthandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C755021-B8D9-4A93-B3E5-471F16BB1D95}|apiKey\\apiKey.csproj|c:\\users\\rahulkumar\\source\\repos\\apikey\\apikey\\controllers\\datacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C755021-B8D9-4A93-B3E5-471F16BB1D95}|apiKey\\apiKey.csproj|solutionrelative:apikey\\controllers\\datacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C755021-B8D9-4A93-B3E5-471F16BB1D95}|apiKey\\apiKey.csproj|c:\\users\\rahulkumar\\source\\repos\\apikey\\apikey\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C755021-B8D9-4A93-B3E5-471F16BB1D95}|apiKey\\apiKey.csproj|solutionrelative:apikey\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C755021-B8D9-4A93-B3E5-471F16BB1D95}|apiKey\\apiKey.csproj|c:\\users\\rahulkumar\\source\\repos\\apikey\\apikey\\models\\dataseeder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C755021-B8D9-4A93-B3E5-471F16BB1D95}|apiKey\\apiKey.csproj|solutionrelative:apikey\\models\\dataseeder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C755021-B8D9-4A93-B3E5-471F16BB1D95}|apiKey\\apiKey.csproj|c:\\users\\rahulkumar\\source\\repos\\apikey\\apikey\\middlewares\\jwtauthenticationmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C755021-B8D9-4A93-B3E5-471F16BB1D95}|apiKey\\apiKey.csproj|solutionrelative:apikey\\middlewares\\jwtauthenticationmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C755021-B8D9-4A93-B3E5-471F16BB1D95}|apiKey\\apiKey.csproj|c:\\users\\rahulkumar\\source\\repos\\apikey\\apikey\\middlewares\\apikeyrequirement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C755021-B8D9-4A93-B3E5-471F16BB1D95}|apiKey\\apiKey.csproj|solutionrelative:apikey\\middlewares\\apikeyrequirement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C755021-B8D9-4A93-B3E5-471F16BB1D95}|apiKey\\apiKey.csproj|c:\\users\\rahulkumar\\source\\repos\\apikey\\apikey\\middlewares\\apikeyorjwtrequirement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C755021-B8D9-4A93-B3E5-471F16BB1D95}|apiKey\\apiKey.csproj|solutionrelative:apikey\\middlewares\\apikeyorjwtrequirement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C755021-B8D9-4A93-B3E5-471F16BB1D95}|apiKey\\apiKey.csproj|c:\\users\\rahulkumar\\source\\repos\\apikey\\apikey\\middlewares\\apikeyhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C755021-B8D9-4A93-B3E5-471F16BB1D95}|apiKey\\apiKey.csproj|solutionrelative:apikey\\middlewares\\apikeyhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C755021-B8D9-4A93-B3E5-471F16BB1D95}|apiKey\\apiKey.csproj|c:\\users\\rahulkumar\\source\\repos\\apikey\\apikey\\repositories\\tokenrepository\\tokenrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C755021-B8D9-4A93-B3E5-471F16BB1D95}|apiKey\\apiKey.csproj|solutionrelative:apikey\\repositories\\tokenrepository\\tokenrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C755021-B8D9-4A93-B3E5-471F16BB1D95}|apiKey\\apiKey.csproj|c:\\users\\rahulkumar\\source\\repos\\apikey\\apikey\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{3C755021-B8D9-4A93-B3E5-471F16BB1D95}|apiKey\\apiKey.csproj|solutionrelative:apikey\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C755021-B8D9-4A93-B3E5-471F16BB1D95}|apiKey\\apiKey.csproj|c:\\users\\rahulkumar\\source\\repos\\apikey\\apikey\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{3C755021-B8D9-4A93-B3E5-471F16BB1D95}|apiKey\\apiKey.csproj|solutionrelative:apikey\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C755021-B8D9-4A93-B3E5-471F16BB1D95}|apiKey\\apiKey.csproj|c:\\users\\rahulkumar\\source\\repos\\apikey\\apikey\\apikey.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{3C755021-B8D9-4A93-B3E5-471F16BB1D95}|apiKey\\apiKey.csproj|solutionrelative:apikey\\apikey.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C755021-B8D9-4A93-B3E5-471F16BB1D95}|apiKey\\apiKey.csproj|c:\\users\\rahulkumar\\source\\repos\\apikey\\apikey\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C755021-B8D9-4A93-B3E5-471F16BB1D95}|apiKey\\apiKey.csproj|solutionrelative:apikey\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C755021-B8D9-4A93-B3E5-471F16BB1D95}|apiKey\\apiKey.csproj|c:\\users\\rahulkumar\\source\\repos\\apikey\\apikey\\repository\\dbrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C755021-B8D9-4A93-B3E5-471F16BB1D95}|apiKey\\apiKey.csproj|solutionrelative:apikey\\repository\\dbrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C755021-B8D9-4A93-B3E5-471F16BB1D95}|apiKey\\apiKey.csproj|c:\\users\\rahulkumar\\source\\repos\\apikey\\apikey\\migrations\\20250129122119_initial_migration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C755021-B8D9-4A93-B3E5-471F16BB1D95}|apiKey\\apiKey.csproj|solutionrelative:apikey\\migrations\\20250129122119_initial_migration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C755021-B8D9-4A93-B3E5-471F16BB1D95}|apiKey\\apiKey.csproj|c:\\users\\rahulkumar\\source\\repos\\apikey\\apikey\\apikey.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{3C755021-B8D9-4A93-B3E5-471F16BB1D95}|apiKey\\apiKey.csproj|solutionrelative:apikey\\apikey.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DataSeeder.cs",
+              "DocumentMoniker": "C:\\Users\\RahulKumar\\source\\repos\\apiKey\\apiKey\\Models\\DataSeeder.cs",
+              "RelativeDocumentMoniker": "apiKey\\Models\\DataSeeder.cs",
+              "ToolTip": "C:\\Users\\RahulKumar\\source\\repos\\apiKey\\apiKey\\Models\\DataSeeder.cs",
+              "RelativeToolTip": "apiKey\\Models\\DataSeeder.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-29T19:07:53.625Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "JwtAuthenticationMiddleware.cs",
+              "DocumentMoniker": "C:\\Users\\RahulKumar\\source\\repos\\apiKey\\apiKey\\Middlewares\\JwtAuthenticationMiddleware.cs",
+              "RelativeDocumentMoniker": "apiKey\\Middlewares\\JwtAuthenticationMiddleware.cs",
+              "ToolTip": "C:\\Users\\RahulKumar\\source\\repos\\apiKey\\apiKey\\Middlewares\\JwtAuthenticationMiddleware.cs",
+              "RelativeToolTip": "apiKey\\Middlewares\\JwtAuthenticationMiddleware.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAqwDkAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-29T18:51:45.293Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "apiKey",
+              "DocumentMoniker": "C:\\Users\\RahulKumar\\source\\repos\\apiKey\\apiKey\\apiKey.csproj",
+              "RelativeDocumentMoniker": "apiKey\\apiKey.csproj",
+              "ToolTip": "C:\\Users\\RahulKumar\\source\\repos\\apiKey\\apiKey\\apiKey.csproj",
+              "RelativeToolTip": "apiKey\\apiKey.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-01-29T18:01:30.968Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ApiKeyOrJwtHandler.cs",
+              "DocumentMoniker": "C:\\Users\\RahulKumar\\source\\repos\\apiKey\\apiKey\\Middlewares\\ApiKeyOrJwtHandler.cs",
+              "RelativeDocumentMoniker": "apiKey\\Middlewares\\ApiKeyOrJwtHandler.cs",
+              "ToolTip": "C:\\Users\\RahulKumar\\source\\repos\\apiKey\\apiKey\\Middlewares\\ApiKeyOrJwtHandler.cs",
+              "RelativeToolTip": "apiKey\\Middlewares\\ApiKeyOrJwtHandler.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAAAQwCwAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-29T17:44:09.072Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ApiKeyOrJwtRequirement.cs",
+              "DocumentMoniker": "C:\\Users\\RahulKumar\\source\\repos\\apiKey\\apiKey\\Middlewares\\ApiKeyOrJwtRequirement.cs",
+              "RelativeDocumentMoniker": "apiKey\\Middlewares\\ApiKeyOrJwtRequirement.cs",
+              "ToolTip": "C:\\Users\\RahulKumar\\source\\repos\\apiKey\\apiKey\\Middlewares\\ApiKeyOrJwtRequirement.cs",
+              "RelativeToolTip": "apiKey\\Middlewares\\ApiKeyOrJwtRequirement.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-29T17:42:56.957Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "LoginController.cs",
+              "DocumentMoniker": "C:\\Users\\RahulKumar\\source\\repos\\apiKey\\apiKey\\Controllers\\LoginController.cs",
+              "RelativeDocumentMoniker": "apiKey\\Controllers\\LoginController.cs",
+              "ToolTip": "C:\\Users\\RahulKumar\\source\\repos\\apiKey\\apiKey\\Controllers\\LoginController.cs",
+              "RelativeToolTip": "apiKey\\Controllers\\LoginController.cs",
+              "ViewState": "AgIAAEEAAAAAAAAAAIAawMUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-29T17:39:57.046Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "TokenRepository.cs",
+              "DocumentMoniker": "C:\\Users\\RahulKumar\\source\\repos\\apiKey\\apiKey\\Repositories\\TokenRepository\\TokenRepository.cs",
+              "RelativeDocumentMoniker": "apiKey\\Repositories\\TokenRepository\\TokenRepository.cs",
+              "ToolTip": "C:\\Users\\RahulKumar\\source\\repos\\apiKey\\apiKey\\Repositories\\TokenRepository\\TokenRepository.cs",
+              "RelativeToolTip": "apiKey\\Repositories\\TokenRepository\\TokenRepository.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAACkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-29T17:38:20.228Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ApiKeyHandler.cs",
+              "DocumentMoniker": "C:\\Users\\RahulKumar\\source\\repos\\apiKey\\apiKey\\Middlewares\\ApiKeyHandler.cs",
+              "RelativeDocumentMoniker": "apiKey\\Middlewares\\ApiKeyHandler.cs",
+              "ToolTip": "C:\\Users\\RahulKumar\\source\\repos\\apiKey\\apiKey\\Middlewares\\ApiKeyHandler.cs",
+              "RelativeToolTip": "apiKey\\Middlewares\\ApiKeyHandler.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAIwB8AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-29T17:29:01.419Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ApiKeyRequirement.cs",
+              "DocumentMoniker": "C:\\Users\\RahulKumar\\source\\repos\\apiKey\\apiKey\\Middlewares\\ApiKeyRequirement.cs",
+              "RelativeDocumentMoniker": "apiKey\\Middlewares\\ApiKeyRequirement.cs",
+              "ToolTip": "C:\\Users\\RahulKumar\\source\\repos\\apiKey\\apiKey\\Middlewares\\ApiKeyRequirement.cs",
+              "RelativeToolTip": "apiKey\\Middlewares\\ApiKeyRequirement.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-29T17:27:59.513Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "DbRepository.cs",
+              "DocumentMoniker": "C:\\Users\\RahulKumar\\source\\repos\\apiKey\\apiKey\\Repository\\DbRepository.cs",
+              "RelativeDocumentMoniker": "apiKey\\Repository\\DbRepository.cs",
+              "ToolTip": "C:\\Users\\RahulKumar\\source\\repos\\apiKey\\apiKey\\Repository\\DbRepository.cs",
+              "RelativeToolTip": "apiKey\\Repository\\DbRepository.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAQwHEAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-29T17:15:18.255Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DataController.cs",
+              "DocumentMoniker": "C:\\Users\\RahulKumar\\source\\repos\\apiKey\\apiKey\\Controllers\\DataController.cs",
+              "RelativeDocumentMoniker": "apiKey\\Controllers\\DataController.cs",
+              "ToolTip": "C:\\Users\\RahulKumar\\source\\repos\\apiKey\\apiKey\\Controllers\\DataController.cs",
+              "RelativeToolTip": "apiKey\\Controllers\\DataController.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAqwB8AAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-29T14:54:45.303Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "20250129122119_initial_migration.cs",
+              "DocumentMoniker": "C:\\Users\\RahulKumar\\source\\repos\\apiKey\\apiKey\\Migrations\\20250129122119_initial_migration.cs",
+              "RelativeDocumentMoniker": "apiKey\\Migrations\\20250129122119_initial_migration.cs",
+              "ToolTip": "C:\\Users\\RahulKumar\\source\\repos\\apiKey\\apiKey\\Migrations\\20250129122119_initial_migration.cs",
+              "RelativeToolTip": "apiKey\\Migrations\\20250129122119_initial_migration.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-29T12:21:20.355Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\RahulKumar\\source\\repos\\apiKey\\apiKey\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "apiKey\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\RahulKumar\\source\\repos\\apiKey\\apiKey\\Properties\\launchSettings.json",
+              "RelativeToolTip": "apiKey\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABoAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-01-29T12:10:53.795Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\RahulKumar\\source\\repos\\apiKey\\apiKey\\appsettings.json",
+              "RelativeDocumentMoniker": "apiKey\\appsettings.json",
+              "ToolTip": "C:\\Users\\RahulKumar\\source\\repos\\apiKey\\apiKey\\appsettings.json",
+              "RelativeToolTip": "apiKey\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-01-29T12:10:19.626Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\RahulKumar\\source\\repos\\apiKey\\apiKey\\Program.cs",
+              "RelativeDocumentMoniker": "apiKey\\Program.cs",
+              "ToolTip": "C:\\Users\\RahulKumar\\source\\repos\\apiKey\\apiKey\\Program.cs",
+              "RelativeToolTip": "apiKey\\Program.cs",
+              "ViewState": "AgIAADAAAAAAAAAAAAAAAD0AAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-29T12:06:30.642Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "apiKey.csproj",
+              "DocumentMoniker": "C:\\Users\\RahulKumar\\source\\repos\\apiKey\\apiKey\\apiKey.csproj",
+              "RelativeDocumentMoniker": "apiKey\\apiKey.csproj",
+              "ToolTip": "C:\\Users\\RahulKumar\\source\\repos\\apiKey\\apiKey\\apiKey.csproj",
+              "RelativeToolTip": "apiKey\\apiKey.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-01-29T12:06:12.114Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
